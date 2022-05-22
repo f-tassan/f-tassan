@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faisal Altassan
-- 👀 I like Robotics, Artificial Intelligence, Electronics, and Video Games
+- 👀 I like Robots, Electronics, and Video Games
 - 📫 How to reach me: faisal.f.i.t@gmail.com
 
 <!---
